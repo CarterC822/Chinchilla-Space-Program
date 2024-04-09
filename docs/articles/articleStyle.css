@@ -19,3 +19,9 @@
 .articleContent {
     margin-top: 15vh;
 }
+.articleTitle {
+    font-size: 5em;
+    color:transparent;
+    background-image: linear-gradient(grey, black);
+    background-clip: text;
+}
