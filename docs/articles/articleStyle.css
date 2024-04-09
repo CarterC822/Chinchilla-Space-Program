@@ -21,6 +21,7 @@
 }
 .articleTitle {
     font-size: 5em;
+    font-weight: 700;
     color:transparent;
     background-image: linear-gradient(grey, black);
     background-clip: text;
