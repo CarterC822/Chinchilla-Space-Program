@@ -1,1 +1,1 @@
-A small physics project for school
+A small physics project for school.
