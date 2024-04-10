@@ -23,6 +23,6 @@
     font-size: 5em;
     font-weight: 700;
     color:transparent;
-    background-image: linear-gradient(from left, grey, black);
+    background-image: linear-gradient(to right, grey, black);
     background-clip: text;
 }
