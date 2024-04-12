@@ -4,6 +4,9 @@
     font-family: "inter",sans-serif;
     text-decoration: none;
 }
+body {
+    background-color: black;
+}
 .titleBar {
     background-color: #111;
     position: fixed;
@@ -24,6 +27,6 @@
     font-size: 4em;
     font-weight: 700;
     color:transparent;
-    background-image: linear-gradient(to right, grey, black);
+    background-image: linear-gradient(to right, grey, white);
     background-clip: text;
 }
