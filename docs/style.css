@@ -14,7 +14,7 @@
     height:85vh;
 }
 .titleBar {
-    background-color: grey;
+    background-color: #111;
     position: fixed;
     left:0;
     top:0;
