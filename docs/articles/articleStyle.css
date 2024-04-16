@@ -17,6 +17,8 @@ body {
     height:15vh;
     width:100vw;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .logoImage {
     width:15vh;
@@ -42,8 +44,6 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    align-items: center;
-    justify-content: space-between;
 }
 .dropDown {
     font-weight: 800;
