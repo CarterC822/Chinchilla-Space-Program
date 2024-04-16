@@ -16,6 +16,7 @@ body {
     top:0;
     height:15vh;
     width:100vw;
+    display: flex;
 }
 .logoImage {
     width:15vh;
@@ -41,4 +42,7 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+}
+.dropDown {
+    font-weight: 800;
 }
