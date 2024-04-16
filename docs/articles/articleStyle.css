@@ -22,6 +22,7 @@ body {
 }
 .articleContent {
     margin-top: 15vh;
+    margin-bottom: 15vh;
 }
 .articleTitle {
     margin:20px;
