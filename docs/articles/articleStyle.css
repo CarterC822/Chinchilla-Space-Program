@@ -50,7 +50,8 @@ body {
 }
 .dropDown {
     font-weight: 800;
-    margin-right:50px;
+    margin-right:40px;
+    width:100px;
 }
 .dropDownContents {
     display: none;
