@@ -34,3 +34,8 @@ body {
 .articleBody {
     padding:20px;
 }
+.imageWithCaption {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
